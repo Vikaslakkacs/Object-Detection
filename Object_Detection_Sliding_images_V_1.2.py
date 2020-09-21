@@ -65,7 +65,7 @@ image_path=args.image
 pil_image= Image.open(image_path) 
 
 ##Convert image to array
-humming= np.array(pil_image)
+humming= np.array(pil_image) 
 
 
 # ### Load input parameters
